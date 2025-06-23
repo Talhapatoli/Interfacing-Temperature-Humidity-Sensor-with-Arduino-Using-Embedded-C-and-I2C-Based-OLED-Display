@@ -20,4 +20,4 @@ Setup:
 
 Credits:
 - Instructor: [Ms. Aiman Najeeb - Mr. Hassan Ul Haq]
-- Collaborators: [Ashhad Akhtar - Arham Hasan - Umar Chohan Aa]
+- Collaborators: [Ashhad Akhtar - Arham Hasan - Umar Chohan]
