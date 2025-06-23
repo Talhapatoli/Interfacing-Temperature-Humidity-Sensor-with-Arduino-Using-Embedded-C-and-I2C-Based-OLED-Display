@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1747491916 source:c:\users\alsyed computer\desktop\a\fuse.c
+	<avr/io.h>
+
+1747564207 source:c:\users\alsyed computer\desktop\a\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1747491916 source:c:\users\alsyed computer\desktop\interfacing temperature and humidity sensor with arduino using embedded c and i2c-based oled display\fuse.c
+	<avr/io.h>
+
+1747564207 source:c:\users\alsyed computer\desktop\interfacing temperature and humidity sensor with arduino using embedded c and i2c-based oled display\main.c
+	<avr/io.h>
+	<util/delay.h>
+	<stdlib.h>
+	<string.h>
+
